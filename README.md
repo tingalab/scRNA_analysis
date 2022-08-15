@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository harbors analysis code and files relevent to scRNA sequencing analysis relevent to our recent work ["**Ureter single-cell and spatial mapping reveal cell types, architecture, and signaling networks**"](https://pubmed.ncbi.nlm.nih.gov/35914526/)
+This repository harbors analysis code and files relevent to scRNA sequencing analysis relevent to our recent work ["**Ureter single-cell and spatial mapping reveal cell types, architecture, and signaling networks**"](https://pubmed.ncbi.nlm.nih.gov/35914526/) (PubmedID:35914526  DOI:10.1016/j.devcel.2022.07.004)
 
 This code repository utilizes a conventional and popular published scRNA analysis tool- [Seuratv3.2.1](https://www.sciencedirect.com/science/article/pii/S0092867419305598?via%3Dihub), and other available Bioinfirmatics tools, to explore the cellular heterogenity of the human ureters (n=10) using 10X Genomics 3' single cell RNA sequencing platform.
 
